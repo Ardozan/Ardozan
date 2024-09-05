@@ -11,10 +11,6 @@
 
 - 💬 Ask me about **Python**
 
-<h3 align="left">My Spotify Playlist:</h3>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/55gsIuZCiouPEvWEbx3HQL?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/billiardoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="billiardoo" height="30" width="40" /></a>

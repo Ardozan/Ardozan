@@ -2,7 +2,7 @@
 Data Engineer sharing my journey and learnings in tech.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Ardozan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ardozan&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
 
 # 💻 Tech Stack  
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
